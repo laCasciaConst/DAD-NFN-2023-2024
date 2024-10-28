@@ -3,14 +3,16 @@
 ## Informations Étudiant
 
 - **Nom :**   
+
 - **Prénom :**   
-- 
+
+  
 
 ## Profil et Connaissances
 
 ### Présentation Personnelle
 
-- **Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez :** 
+//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : 
 
 ### Compétences Actuelles
 
@@ -60,7 +62,7 @@
 
 
 
-## Actions Concrètes
+## Actions
 
 ### Contribution à un Projet d'Autre Étudiant
 
@@ -90,9 +92,11 @@ Des ressources communes seront alimentées par tous. Chaque étudiant devra cont
   - **Étape 2 :** Date et description   
   - **Étape 3 :** Date et description 
 
+
+
 ## Commentaires et Questions
 
-- **Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? :** 
+//Avez-vous des questions ou des préoccupations à propos du cours ou de vos projets ? : 
 
 
 

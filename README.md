@@ -3,7 +3,7 @@ Documentation du Cours de 3ème Année : Nouvelle Forme de Narration, Section Ar
 
 ## Brief
 
-Nous allons expérimenter une nouvelle approche pédagogique. Dans le domaine de la création artistique, et en particulier dans le champ des arts numériques, une grande autonomie est essentielle. Cela est principalement dû à notre dépendance au matériel (hardware) et à la disponibilité des ressources pédagogiques en ligne. L'émergence de nouveaux formats d'enseignement, tels que ceux du réseau des écoles 42, ainsi que le succès croissant des formations en ligne (comme OpenClassrooms), illustrent parfaitement ce besoin.
+ Dans le domaine de la création artistique, et en particulier dans le champ des arts numériques, une grande autonomie est essentielle. Cela est principalement dû à notre dépendance au matériel (hardware) et à la disponibilité des ressources pédagogiques en ligne. L'émergence de nouveaux formats d'enseignement, tels que ceux du réseau des écoles 42, ainsi que le succès croissant des formations en ligne (comme OpenClassrooms), illustrent parfaitement ce besoin. Nous allons expérimenter une nouvelle approche pédagogique.
 
 Ainsi, nous allons tenter d'appliquer ce modèle à notre cours durant l'année scolaire 2024-2025.
 
@@ -20,9 +20,9 @@ Votre évaluation sera basée sur deux critères principaux :
 
 ## Livrables attendus 
 
-- Repo git contenant :
-  - votre fiche de cours 
-  - vos projets
+Repo git contenant :
+- votre fiche de cours 
+- vos projets
 
 
 
@@ -45,34 +45,34 @@ Votre évaluation sera basée sur deux critères principaux :
 Compétences basique de code.
 
 1. **Variables**
+   1. Compréhension des types de données (entiers, chaînes de caractères, booléens, etc.)
 
-   \- Compréhension des types de données (entiers, chaînes de caractères, booléens, etc.)
-   \- Scope (portée) des variables
+   2. Scope (portée) des variables
 
 2. **Conditions**
+   1. Utilisation des conditions if, else if, et else
 
-   \- Utilisation des conditions if, else if, et else
-   \- Opérateurs logiques et de comparaison
+   2. Opérateurs logiques et de comparaison
 
-3. **Loops**
+3. **Loops** 
+   1. Boucles for et while
 
-   \- Boucles for et while
-   \- Utilisation de break et continue pour contrôler le flux des boucles
+   2. Utilisation de break et continue pour contrôler le flux des boucles
 
 4. **Listes**
+   1. Créer, modifier et accéder aux éléments d'une liste (tableau)
 
-   \- Créer, modifier et accéder aux éléments d'une liste (tableau)
-   \- Méthodes de manipulation de listes (ajout, suppression, tri)
+   2. Méthodes de manipulation de listes (ajout, suppression, tri)
 
 5. **Fonctions**
+   1. Définir des fonctions avec des paramètres et des valeurs de retour
 
-   \- Définir des fonctions avec des paramètres et des valeurs de retour
-   \- Compréhension des fonctions anonymes et des callbacks
+   2. Compréhension des fonctions anonymes et des callbacks
 
 6. **Programmation Orientée Objet (POO)**
+   1. Création et utilisation de classes et d'objets
+   2. Concepts d'héritage et de polymorphisme
 
-   \- Création et utilisation de classes et d'objets
-   \- Concepts d'héritage et de polymorphisme
 
 **GIT ET VERSIONNING**
 
@@ -98,32 +98,23 @@ Présentation publique de vos avancées, recherches et expérimentations afin de
 
 ## Actions :
 
-**CONTRIBUTION AU PROJET D'UN AUTRE ÉTUDIANT**
-D'une manière ou d'une autre, vous devez tous au moins une fois aider à la réalisation du projet d'un autre étudiant. Que ce soit par de la recherche théorique, de la mise en espace, ou la création du projet lui-même (aide sur l'une des compétences précédentes, en somme).
+Toutes ses actions sont obligatoire pour tous les étudiants
 
-**CRÉATION D'UN SUJET DE RECHERCHE**
-Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
+- [ ] **CONTRIBUTION AU PROJET D'UN AUTRE ÉTUDIANT**
 
-**PARTICIPATION À UN SUJET DE RECHERCHE**
-Vous participerez à un sujet de recherche créé par un autre étudiant. Vous devrez développer un projet en lien avec l'intitulé du sujet de recherche proposé par cet étudiant.
+  D'une manière ou d'une autre, vous devez tous au moins une fois aider à la réalisation du projet d'un autre étudiant. Que ce soit par de la recherche théorique, de la mise en espace, ou la création du projet lui-même (aide sur l'une des compétences précédentes, en somme).
 
-**CONTRIBUER AUX RESSOURCES**
-Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
+- [ ] **CRÉATION D'UN SUJET DE RECHERCHE**
+  Vous devrez tous écrire un sujet de recherche, une thématique ou un propos de création lié à l'un de vos projets. Par exemple, si vous avez un projet de création d'un outil de capture d'image basé sur des algorithmes, vous devrez formuler un intitulé pour cette pratique : « Création de capture d'image algorithmique sur mobile ».
 
-**PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
-Présentation en groupe et échange sur un sujet qui vous intéresse.
+- [ ] **PARTICIPATION À UN SUJET DE RECHERCHE**
+  Vous participerez à un sujet de recherche créé par un autre étudiant. Vous devrez développer un projet en lien avec l'intitulé du sujet de recherche proposé par cet étudiant.
 
+- [ ] **CONTRIBUER AUX RESSOURCES**
+  Des ressources communes seront alimentées par tous. Chaque étudiant devra contribuer et enrichir cet ensemble de ressources.
 
-
-#### Écriture de votre fiche pédagogique
-
-La fiche pédagogique est une sorte de cahier des charges entre vous et  moi. Elle constituera la référence de votre profil, de vos  connaissances, de l'avancement de vos projets et de vos objectifs.  Concrètement, c'est à vous de définir vos projets, vos thématiques de  recherche, vos outils et vos ambitions. L'ensemble doit être soutenu par un argumentaire solide et des références artistiques afin de rendre  votre démarche crédible.
-
-C’est via ce document que je vais vous évaluer et qui me servira pour valider toutes vos compétences. 
-
-
-
-
+- [ ] **PRÉSENTATION DE 20 MINUTES SUR UN SUJET ARTISTIQUE/DESIGN (RECHERCHE THÉORIQUE)**
+  Présentation en groupe et échange sur un sujet qui vous intéresse.
 
 
 
@@ -152,6 +143,7 @@ Chaque étudiants tiendra sont propre planning
 ## Les question à résoudre :
 
 - Les rendus strictes ? (avant ou après les dernières vacances du semestre ?)
+- comment on créé notre wiki dee créations / tutos
 
 
 
@@ -206,3 +198,9 @@ Par exemple,
 J'ai découvert le travail de Paolo Perdicini, son jeu phone story ma perturbé et j'ai lu récemment un article sur les jeux sans joueur. Je souhaite également expérimenté la création de simulation inspiré de phénomème social. C'est pour ça que je souhaite faire tel projet avec tel Unreal. PCk cet outil me permet de faire tel ou tel chose et que l'outil est connu pour son acessibilité et son réalisme etc. 
 
 L'utilisation du code me permettra de valider tel compétence et tel compétence. 
+
+#### Écriture de votre fiche pédagogique
+
+La fiche pédagogique est une sorte de cahier des charges entre vous et  moi. Elle constituera la référence de votre profil, de vos  connaissances, de l'avancement de vos projets et de vos objectifs.  Concrètement, c'est à vous de définir vos projets, vos thématiques de  recherche, vos outils et vos ambitions. L'ensemble doit être soutenu par un argumentaire solide et des références artistiques afin de rendre  votre démarche crédible.
+
+C’est via ce document que je vais vous évaluer et qui me servira pour valider toutes vos compétences. 
