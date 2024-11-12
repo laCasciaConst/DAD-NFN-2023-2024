@@ -147,6 +147,85 @@ Chaque étudiants tiendra sont propre planning
 
 
 
+## Comment contribuer aux ressources 
+
+### techniquement 
+
+Pour contribuer à ce dépôt (n'oubliez pas que cela est obligatoire au  moins une fois !), vous pouvez le faire manuellement via la ligne de  commande ou en utilisant **GitHub Desktop**. Voici les étapes pour  chaque méthode :
+
+\### Par ligne de commande :
+
+1. **Forker le repository** : 
+- Allez sur la page du dépôt d'origine sur GitHub et cliquez sur "Fork".
+
+2. **Cloner votre fork** : 
+Dans votre terminal, exécutez :
+```
+git clone https://github.com/votre-utilisateur/nom-du-repo.git
+```
+
+3. **Créer une nouvelle branche** : 
+- Naviguez dans le dossier du projet :
+```
+cd nom-du-repo
+```
+- Créez et changez de branche :
+```
+git checkout -b nom-de-votre-branche
+```
+
+4. **Faire des modifications et commit** : 
+- Modifiez le code, ajoutez les fichiers modifiés :
+```
+git add .
+```
+- Committez vos modifications :
+```
+git commit -m "Description de vos modifications"
+```
+
+5. **Push to origin** : 
+- Envoyez votre branche :
+```
+git push origin nom-de-votre-branche
+```
+
+6. **Créer une Pull Request** :
+- Sur GitHub, allez sur votre fork et cliquez sur "Compare & pull request". Remplissez les détails et créez la pull request.
+
+### Par GitHub Desktop :
+
+1. **Forker le repository** :
+- Comme précédemment, allez sur la page GitHub et cliquez sur "Fork".
+
+2. **Cloner votre fork avec GitHub Desktop** :
+- Ouvrez GitHub Desktop et cliquez sur "File" > "Clone repository".
+- Sélectionnez votre fork dans l'onglet "GitHub.com".
+
+3. **Créer une nouvelle branche** :
+- Dans GitHub Desktop, cliquez sur le menu déroulant à côté de la  branche actuelle et sélectionnez "New Branch". Donnez-lui un nom  significatif.
+
+4. **Faire des modifications** :
+- Apportez vos modifications dans l'éditeur de code de votre choix et enregistrez-les.
+
+5. **Faireun commit** :
+- Retournez à GitHub Desktop. Vous verrez vos modifications listées  dans l'onglet "Changes". Ajoutez un message de commit et cliquez sur  "Commit to nom-de-votre-branche".
+
+6. **Push your branch** :
+- Cliquez sur le bouton "Push origin" en haut à droite pour envoyer votre branche sur GitHub.
+
+7. **Créer une Pull Request** :
+- Une fois le push terminé, GitHub Desktop vous proposera de créer  une pull request. Cliquez sur "Create Pull Request", ajoutez des détails si nécessaire, puis cliquez sur "Create Pull Request" sur GitHub.
+
+### Suivre la discussion :
+- Que vous utilisiez la ligne de commande ou GitHub Desktop, n'oubliez  pas de suivre les commentaires sur votre pull request et d'apporter des  modifications si nécessaire.
+
+### Félicitations !
+Une fois  acceptée, votre contribution sera fusionnée dans le dépôt principal.  Vous avez ainsi participé à un projet open-source !
+
+
+
+
 ## Ressources
 
 *Processing*
