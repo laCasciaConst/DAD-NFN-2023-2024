@@ -204,3 +204,25 @@ L'utilisation du code me permettra de valider tel compétence et tel compétence
 La fiche pédagogique est une sorte de cahier des charges entre vous et  moi. Elle constituera la référence de votre profil, de vos  connaissances, de l'avancement de vos projets et de vos objectifs.  Concrètement, c'est à vous de définir vos projets, vos thématiques de  recherche, vos outils et vos ambitions. L'ensemble doit être soutenu par un argumentaire solide et des références artistiques afin de rendre  votre démarche crédible.
 
 C’est via ce document que je vais vous évaluer et qui me servira pour valider toutes vos compétences. 
+
+
+
+// tout faire en si peux de temps c’est possible ? 
+
+VR, réalité virtuel, Web to print, 3D, Son Glitch édition, Visualisatioon sonote, P5js, Movie making, animation, Interview, Blender, Narration
+
+
+
+
+
+## Liens repos étudiants
+
+Anne-Sophie : https://github.com/S0phieff/READMEPerso/blob/main/annesophie
+
+Valérie : https://github.com/yongval/DAD-NNN-Valerie
+
+Eda : https://github.com/etz223/DAD-eda-tinmaz/blob/main/Fiche
+
+Lita : https://github.com/laCasciaConst/NNN_2024/blob/main/Fiche%20de%20cours%20-%20exemple.md
+
+Émilie : https://github.com/emart2067/DAD-NNN-Emilie
