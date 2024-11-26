@@ -29,10 +29,13 @@ people comes and goes
 
 ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1024px-Minard.png)
 너무 아름답지않냐.. 
+
 [Charles Joseph Minard — Wikipédia](https://fr.wikipedia.org/wiki/Charles_Joseph_Minard)
 
 과정 
+
 개인에 따른 nft 생성(미리 해야함) -> 지갑은 두 개가 필요. 둘 다 내 소유. 수많은 nft들이 등록된 지갑 하나와 nft들을 받을 지갑 하나. 
+
 html 페이지에다 어떤 사용자가 정보를 입력하면 그 정보를 서버로 보냄, 그 정보는 변환되어 nft중 해당하는 것 하나를 등록지갑에서 받는지갑으로 보냄. 그러면 그 정보를 받아와서 html 페이지에 표시한다. 
 
 
@@ -41,9 +44,12 @@ html 페이지에다 어떤 사용자가 정보를 입력하면 그 정보를 �
 
 ## 121124
 Le mythe se réinvente à chaque époque. Il reflète les angoisses, les préoccupations et les souffrances de l'humanité. Ils illustrent les luttes et les dilemmes qui jalonnent notre existence. Ils accompagnent l'humanité depuis ses débuts. La foi, la religion et l'espoir, tels qu'ils se manifestent dans la mythologie, constituent également des aspects indissociables de l'être humain. Ce qui est surprenant, c'est que l'angoisse qu'ils véhiculent, présente depuis des milliers d'années, persiste encore aujourd'hui, même pour moi, née en 2001, au débuts du 21e siècle. En tant que membre de la génération Z, j'éprouve des difficultés à reconstruire ces récits communs et bien connus à l'aide des nouvelles technologies. 
+
 Les gens vont et viennent à mes côtés. On fait connaissance lorsqu'on fréquente la même école ou qu'on participe à un échange, puis chacun suit son propre chemin ou retourne dans son pays d'origine. 
+
 Toutes ces rencontres laissent de petites traces sur moi : les conversations que j'ai eues, les connaissances que j'ai acquises, leur musique ou leur nourriture préférée, ainsi que nos divergences d'opinions... Avec toutes ces nouveautés, je suis un peu différente du passé. Je suis la même personne qu'il y a 10 ans, mais j'ai beaucoup changé, et je serai encore la même dans 10 ans. Je change avec le temps. Mais cela a toujours été moi, et cela le sera toujours, même lorsque vous êtes à mes côtés ou lorsque vous ne l'êtes pas. Mon but est de faire de ces cours un art interactif et visuel.
 신화는 각 시대마다 재창조됩니다. 이는 인류의 불안, 우려, 고통을 반영합니다. 그들은 우리의 존재를 나타내는 투쟁과 딜레마를 보여줍니다. 그들은 인류가 시작된 이래로 인류와 동행해 왔습니다. 신화에 나타난 믿음, 종교, 희망 역시 인간 존재의 불가분의 측면입니다. 놀라운 것은 그들이 전달하는 불안이 수천 년 동안 지속되어 왔으며, 심지어 21세기 초인 2001년에 태어난 나에게도 여전히 지속된다는 것이다. Z세대의 일원으로서 나는 이러한 일반적이고 잘 알려진 이야기를 새로운 기술을 사용하여 재구성하는 것이 어렵다는 것을 알고 있습니다. 
+
 사람들이 내 옆으로 오고 갑니다. 같은 학교를 다니거나 교류를 하면서 서로 알아가고, 각자의 길을 따르거나 모국으로 돌아가는 경우가 많습니다. 
 이 모든 만남은 나에게 작은 흔적을 남긴다. 내가 나눈 대화, 내가 얻은 지식, 그들이 좋아하는 음악이나 음식, 그리고 우리의 의견 차이... 이 모든 새로운 것들로 인해 나는 과거와 조금 다르다. 나는 10년 전과 같은 사람이지만 많이 변했고, 10년 후에도 여전히 같은 사람일 것이다. 나는 시간이 지남에 따라 변합니다. 하지만 그것은 언제나 나였고, 당신이 내 옆에 있을 때에도, 당신이 없을 때에도 언제나 그럴 것입니다. 나의 목표는 이러한 수업을 상호작용적이고 시각적인 예술로 만드는 것입니다.
 
@@ -55,6 +61,7 @@ Toutes ces rencontres laissent de petites traces sur moi : les conversations que
 Je suis une personne très superstitieuse, tout comme beaucoup de personnes en Corée. Cela peut paraître étrange aux Français, mais faire des choix en fonction de ces croyances est si naturel que personne n’y trouve rien d’anormal. Lorsque je traverse une période difficile, ma mère consulte les caractères chinois de l'année et du mois en cours. Elle dit que s'il y a trop d'énergie de l'eau, cela me rend déprimée et rêveuse. Depuis le collège, elle m’a toujours dit de ne jamais me marier trop tôt, car je finirais certainement par divorcer. Et si je me fais une nouvelle amie, elle me conseille de connaître sa date de naissance pour comprendre quel type de personne il ou elle est. Cela peut sembler rigolo et sans aucun sens, mais c'est l'environnement dans lequel j'ai grandi.
 
 Il est peut-être naturel que cet environnement ait fait de moi un fataliste. Tout arrive pour une raison, et les bonnes comme les mauvaises choses se répètent naturellement. Les allées et venues des gens sont également naturelles, en fonction du flux de chance de chacun.
+
 나는 한국의 많은 사람들처럼 매우 미신을 믿는 사람입니다. 프랑스인들에게는 이것이 이상하게 보일 수도 있지만, 이러한 믿음에 기초하여 선택을 하는 것은 너무나 자연스러워서 누구도 거기에서 이상한 점을 발견하지 못합니다. 내가 힘들 때 어머니는 올해와 그 달의 한자를 찾아보곤 하신다. 물 에너지가 너무 많으면 우울하고 몽환적이라고 하더군요. 중학교 때부터 엄마는 나에게 너무 일찍 결혼하지 말라고 늘 말씀하셨다. 나는 분명히 이혼할 것이기 때문이다. 그리고 새로운 친구가 생기면 그 사람이 어떤 사람인지 알기 위해 그 사람의 생년월일을 알라고 조언한다. 우스꽝스럽고 말도 안 되는 소리로 들릴 수도 있지만 그것이 제가 자란 환경이었습니다.
 
 어쩌면 이런 환경이 나를 운명론자로 만든 것은 당연할지도 모른다. 모든 일에는 이유가 있어서 좋은 일과 나쁜 일이 자연스럽게 반복됩니다. 사람들의 오고 가는 것 또한 모두의 행운의 흐름에 따라 자연스러운 일이다.
@@ -87,19 +94,33 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 ##### 하지만 파편화는 나쁜가? 각기 지나치게 다른 삶의 무게를 짊어질 수 있는 건 자기 자신 뿐일지 모른다. 그러니 우리는 바쁜 도시 속에서 서로 무관심하게 내버려 둔다. 에밀 뒤르켐(Émile Durkheim; 1858-1917)은 사회적 분업의 발달이 사회의 유기적 연대를 강화하나, 이상 상황에 있어서는 사회의 전체적 의존 관계가 교란되어, 무규제, 무통제의 분업이 사회적 아노미 상황의 원인이 된다고 한다. 일정한 사회에 있어서, 구성원의 행위를 규제하는 공통의 가치나 도덕적 규범이 상실된 혼돈상태를 나타내는 개념. 사회가 급격히 변동하였을 때 그에 대한 대응 규범이 나타나지 않으면, 사람들은 혼란을 겪게 되고, 이런 무규범 상태가 지속됨으로서 일탈이 발생한다는 것이다. (기능론적 관점) 사회분업론에 의한 의존 관계는 바람직한 것이나, 그 와중에 전문성을 가진 개인의 욕구와 행위가 제한 없이 폭주한다거나, 사회 규범을 흔드는 사건이나 풍조가 만연해 발생하는 동요나 소요 상태를 말한다. 즉 통제와 규제가 먹히질 않기 때문에, 극단적으로 치달으면 사실상 무정부상태에 가깝게 된다.
 
 아노미(사회적 목표 및 합법적 성취수단의 괴리로 인한 혼란; aka 긴장이론, strain theory) 속의 나 
+
 -10세: 도피(retreatism)
+
 11-13세: 의례(ritualism)
+
 14-17세: 순응(conformity) + 이기적 자살(egoistic suicide) 욕구
+
 >15-19세 + 아노미적 자살(anomic suicide) 욕구
+
 18세-21세: 반항(Rebellion)
 -> 이 모든 것을 지나온 지금은?
 
 
 ***
 
+## 201124 
 
-## 261124
+[face tracking as art](https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98)
+
+[prostheticknowledge](https://prostheticknowledge.tumblr.com/)
+
+[Lenticular Encryption](https://prostheticknowledge.tumblr.com/post/77609751289/lenticular-encryption-this-is-a-small-project-i)
+
+
+## 251124
 경험이 쌓여 나를 만든다. 사람이, 사건이, 상황이, 그 모든 나의 선택과 대처는 나를 대변하는 동시에 나를 만든다. 나를 형성한다. 마치 모자이크처럼. 픽셀아트처럼, 또는 점묘화처럼. 그렇기 때문에 나는 과거의 기억을 하나도 놓을 수 없다. 그중에 무엇이 내 중추가 되었는지 나 또한 알지 못하는 탓이다. 
+
 엄마와 이야기하다가 우리가 같은 아픔을 공유하는 동시에, 둘 다 그걸 15년간 잊고 지냈음을 깨달았다. 잊으려고 잊은 것이 아니다. 잊어야 했기 때문에 기억의 저편으로 미루어 둔 것이다. 그리고 이제는, 다행히도, 우리 둘 다 그 일을 웃으며 이야기 할 수 있을 정도로 상황이 나아졌기 때문에…… 그래서 겨우 꺼내어 보았다. 괜찮냐고 묻는다면 그렇지 않다. 하나도 안 괜찮다. 그날 그 방바닥에 주저앉아 울면서 보았던 어둑한 주말 오전 북서향의 서재, 거실에서 들려오는 엄마 목소리, 당신 왜 이래, 보지 못했지만 명백한 몸싸움, 금세 눈물에 불어터진 얼굴 위로 흐르는 눅진한 콧물을 분홍 긴 팔 내복에 문질러 닦는다. 초봄에 난방을 전혀 때지 않은 바닥이 찼고, 뒤에서는 여섯 살 먹은 동생이 겁먹어 울고 있었다. 나 또한 어쩔 줄을 모르고 앉아만 있었다. 너무 무서워서 아무것도 하지 못했다. 두려워서. 그렇게 삼십 분 넘게 앉아서 훌쩍훌쩍 코만 닦다가 바깥이 고요해져 나와 보았더니 아무도 없었다. 아빠는 아마 안방에 틀어박혔을 것이고 엄마는 어디론가 나가버렸던 모양이다.(기억에는 없으나 그랬다고 들었다.) 거실 티비 위로 그리고 비가 자꾸 들이쳐서 썩어버린 창가 구석 마루 위로 한낮 가까워진 햇빛이 따스하게 내리쬐고 있었다. 나는 그 원목 바닥에 드리워지는 온기가 참 좋았다. 심지어는 바닥이 썩었다는 사실이 참 좋아서 비오는 날이면 미닫이 창을 한 뼘도 안 되게 열어 놓았었다. 이 바닥도 한때는 생물이었구나. 그래서 썩는구나, 싶어 이상하게 애착이 갔다. 그러면 엄마는 나를 나무랐다. 까만 가죽 소파 위로 해가 비추면 그 부분이 따끈따끈하게 달구어진다. 그러면 팔자 좋은 고양이마냥 그 위에 웅크려 있고는 했다. 애매한 오후에 EBS에서는 역시 애매한 고전 애니메이션을 틀어주었다. 보물선, 엄마 찾아 삼만리. 은하철도 999…… 저녁 6시 반, 좋아하는 애니메이션들이 모두 끝난 뒤에 아쉬운 마음으로 지켜보던 보니하니. 전화 응모는 단 한번도 성공한 적 없었지. 
 
 있잖아 내가 스물 넷인데 아홉 살때 맞았던 일 떠올리다 울었어 다들 이러나? 엄마랑 그 일 이야기를 살면서 처음 해 봤는데 십오 년이 지나고 나서야 용기가 난 것도 그렇고 이제야 겨우 농담처럼 잡담처럼 나눌 수 있을 정도로 상황이 나아졌는데 그날 거기 바닥에 주저앉아 울던건 아직도 안괜찮아 진짜 생각보다 더더더 안괜찮고 떠올리는데 울컥해서 놀랐어 난 동생이랑 이런 기억을 공유한다 생각했는데(왜냐면 내 뒤에서 동생도 울고있었으니까 내가 아빠를 막아섰었으니까) 걔는 그 시기 기억이 거의 없대 여섯 살이라 그랬을까... 그러니까 나만이 나의 이해자였고 내가 잊으면 누구도 기억않는 사건이었던거야 그래서 내가 아파트 평면도 따다가 쓰리디를 처만들고 있었던거야 아직도 안괜찮아서 시발 밥 깨작깨작 먹는다고 내 생일이 얼마 남지 않은 봄날 먼지나게 쳐맞은 이야기를 해야겠어서 아빠 말리다가 엄마 목졸린 이야기를 해야겠어서 근데 나는 그걸 몰랐어 여태 너무오래맞고자랐어.. 너무오래 맞고살았어 지금 이계정에 잇는 대부분의 사람들을 내가 여전히 맞고지낼때 만남 (오랜친구가 많은탓이기도 한데요 사실 2018년 여름이 마지막이니까 생각보다 해묵은 이야기가 아니지요) 진짜로 '잘못해도 때리면 안된느구나!! 폭력은 절대안되는구나!!' 이걸 알았을때 머리에 전구켜짐 그렇게 바보도 아니엇는데 나 중학교 다독왕 점심시간마다 도서관가고 역사/사회쌤들의 총애를 받았었는데 근데 하나는 알고 둘은 몰라서.. 아니 어쩌면 그렇게 믿지 않으면 안되어서..
@@ -110,4 +131,25 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 어릴 적 잠깐 전투기 조종사에 로망을 가지며 찾아보다 흉부, 두부 절개 수술(예를 들면 심장 수술이나 뇌 수술)은 고압력을 받으면 상처 부위가 벌어질 염려가 있어 선발대상에서 제외된다는 걸 읽었다. 10년도 전 일인데 가끔 내가 통제할 수 없이 추락할 적마다 그 담백하고 단정적인 문단을 떠올린다. 아, 벌어졌다. 그 해묵은 상처가, 또 다시. 
 
 주입된 죄책감
+
+
+***
+
+
+## 261124
+
+
+말하고 싶은 걸 말할 수 없다. 
+
+너무 오래 맞고 자라서.
+
+수치심이 기저에서 가장 큰 자리를 차지하는 이상 나는 아무 말도 하지 못한다. 
+
+또는 사람들이 나를 불쌍히 여기리라는 사실을 알기에, 또는 그들이 이 사실을 기반으로 나를 평가하고 재단하려 들 것임을 알기에, 혹은 내가 세상에서 제일 미워하는 사람이 나와 혈연으로 엮여 있으며 심지어는 내가 그를 사랑해서. 이 모든 일이 있었음에도 아빠는 나를 자식으로서 아끼고 사랑하며 나 역시 그에게서 많은 걸 배워서. 하필이면. 
+
+수치심은 사람 사이의 신뢰와 내적인 안정성 모두를 해치는 정서적 경험이다. 강렬한 수치심은 자기 내부의 질병, 즉 영혼의 질병이다. *(Gershen Kaufman, The Psychology of Shame, 1996)*
+
+나의 가장 큰 고통은 볼드모트가 되었다. 절대로 그(의 이름)를 언급해서는 안 돼. 내가 그의 거울이라는 점마저 해리와 볼드모트 관계 같구나. 
+
+
 
