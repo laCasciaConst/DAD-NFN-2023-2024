@@ -138,8 +138,9 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 ## 261124
 
+말하고 싶어! 
 
-말하고 싶은 걸 말할 수 없다. 
+하지만 말할 수 없다. 
 
 너무 오래 맞고 자라서.
 
@@ -147,9 +148,15 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 또는 사람들이 나를 불쌍히 여기리라는 사실을 알기에, 또는 그들이 이 사실을 기반으로 나를 평가하고 재단하려 들 것임을 알기에, 혹은 내가 세상에서 제일 미워하는 사람이 나와 혈연으로 엮여 있으며 심지어는 내가 그를 사랑해서. 이 모든 일이 있었음에도 아빠는 나를 자식으로서 아끼고 사랑하며 나 역시 그에게서 많은 걸 배워서. 하필이면. 
 
+심지어는 내 글씨체마저 그를 닮았다. 그는 내게 글쓰기 따위를 가르쳐 주거나 따뜻한 손편지를 건네던 다정한 아빠가 아니었음에도. 
+
 수치심은 사람 사이의 신뢰와 내적인 안정성 모두를 해치는 정서적 경험이다. 강렬한 수치심은 자기 내부의 질병, 즉 영혼의 질병이다. *(Gershen Kaufman, The Psychology of Shame, 1996)*
 
 나의 가장 큰 고통은 볼드모트가 되었다. 절대로 그(의 이름)를 언급해서는 안 돼. 내가 그의 거울이라는 점마저 해리와 볼드모트 관계 같구나. 
 
-
+#### 하고 싶은 거.
+- diary archiving(my obsession in remembering/archiving in materialised form in reality + also as one of my long-held ambition)
+- 동생과 나에 대한 이야기
+- 그리고 무엇보다, 내 인생의 4분의 3을 차지하던 이 폭력에 대해 말해야 한다. 이제는 정말로 말해야 한다. 정말로 정말로 무언가 보여드리겠습니다.
+- ..and a maze of love(3d chess)
 
