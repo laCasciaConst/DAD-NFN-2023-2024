@@ -2,9 +2,9 @@
 
 ## Informations Étudiant
 
-- **Nom :**   
+- **Nom : SHIN**   
 
-- **Prénom :**   
+- **Prénom : Lita**   
 
   
 
@@ -12,26 +12,23 @@
 
 ### Présentation Personnelle
 
-//Décrivez en quelques phrases vos objectifs à cours terme et long terme si vou en avez : 
+Je suis une étudiante passionnée par le design interactif et le développement web. À court terme, je souhaite améliorer mes compétences en programmation et en design d'interface. À long terme, j'aimerais travailler en tant que designer UX/UI dans une entreprise innovante. En parallèle, je suis également passionnée par l'art numérique, utilisant des codes créatifs et mêlant de nouvelles techniques telles que les NFT, l'IA, etc.
 
 ### Compétences Actuelles
 
 ### Compétences :
 
-// notez vous avec une note entre 0 et 20 pour chaque compétence et rajoutez une petite description 
-
-**CODING**
-
-**GIT ET VERSIONNING**
-
-**INTERACTIVITÉ ET RENDU TEMPS RÉEL**
-
-**GRAPHISME ET DESIGN D'INTERFACE**
-
-**INSTALLATION ET MISE EN ESPACE**
-
-**PRÉSENTATION ET ARGUMENTATION**
-
+- **CODING** : 14/20 - Je maîtrise les bases de JavaScript et j'ai des connaissances en HTML et CSS. Je travaille régulièrement sur des projets indépendants et je suis toujours prêt à apprendre de nouvelles choses sur le codage. J'adore coder !
+  
+- **GIT ET VERSIONNING** : 13/20 - J'ai utilisé Git pour la gestion de versions de mes projets, mais je ne me sens pas encore totalement à l'aise.
+  
+- **INTERACTIVITÉ ET RENDU TEMPS RÉEL** : 11/20 - Je commence à expérimenter avec des frameworks comme p5.js., Node.js, REACT, etc.
+  
+- **DESIGN GRAPHIQUE ET MÉDIAS INTERACTIFS** : 18/20 - Je maîtrise bien les outils courants tels que Photoshop, Figma, Illustrator, InDesign, Premiere Pro et After Effects, ainsi que des logiciels comme Clip Studio, Blender et TV Paint. En tant qu'ancien étudiant en animation, je peux affirmer avec certitude que mes compétences en dessin sont les meilleures de l'école. De plus, j'ai une connaissance approfondie et un grand intérêt pour l'animation, le cinéma, les médias vidéo et le design, ce qui, à mon avis, constitue un atout majeur en tant que designer.
+  
+- **INSTALLATION ET MISE EN ESPACE** : 14/20 - J'ai travaillé sur quelques projets d'installation artistique il y a 3-4 ans. Même si je n'ai pas travaillé récemment dans ce domaine, j'y porte toujours un grand intérêt et une grande affection. Vous pouvez consulter mon portfolio de cette période ici.
+  
+- **PRÉSENTATION ET ARGUMENTATION** : 13/20 - Je suis capable de présenter mes idées de manière claire, mais je souhaite m'améliorer dans l'art de convaincre. Mon principal obstacle est que je ne maîtrise pas encore parfaitement le français, et j'en suis conscient. Cependant, je suis clair sur ce que je veux exprimer dans mon travail et dans mes recherches, donc je ne pense pas qu'il y aura de problèmes tant que j'améliore ma capacité à le transmettre. Par ailleurs, je parle également quatre langues : anglais, français, coréen et japonais.
 
 
 ## Projet et Thématique de Recherche
@@ -40,18 +37,18 @@
 
 ### Sujet de Projet
 
-- **Titre du projet :**   
-- **Description du projet (environ 150 mots) :** 
+- **Titre du projet** : (Titre provisoire) *Lita de Thésée*
+- **Description du projet (environ 150 mots) :** Les gens vont et viennent à mes côtés. On fait connaissance lorsqu'on fréquente la même école ou qu'on participe à un échange, puis chacun suit son propre chemin ou retourne dans son pays d'origine. Toutes ces rencontres laissent de petites traces sur moi : les conversations que j'ai eues, les connaissances que j'ai acquises, leur musique ou leur nourriture préférée, ainsi que nos divergences d'opinions... Avec toutes ces nouveautés, je suis un peu différente du passé. Je suis la même personne qu'il y a 10 ans, mais j'ai beaucoup changé, et je serai encore la même dans 10 ans. Je change avec le temps. Mais cela a toujours été moi, et cela le sera toujours, même lorsque vous êtes à mes côtés ou lorsque vous ne l'êtes pas. Mon but est de faire de ces cours un art interactif et visuel.
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer :**   
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** 
+- **Thématiques que vous souhaitez explorer :** ***Les mythes, lores et Religions*** 
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** Les mythes reflètent les angoisses, les préoccupations et les souffrances de l'humanité. Ils illustrent les luttes et les dilemmes qui jalonnent notre existence. Ils accompagnent l'humanité depuis ses débuts. La foi, la religion et l'espoir, tels qu'ils se manifestent dans la mythologie, constituent également des aspects indissociables de l'être humain. Ce qui est surprenant, c'est que l'angoisse qu'ils véhiculent, présente depuis des milliers d'années, persiste encore aujourd'hui, même pour moi, née en 2001, au début du 21e siècle. En tant que membre de la génération Z, j'éprouve des difficultés à reconstruire ces récits communs et bien connus à l'aide des nouvelles technologies.
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :**   
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** 
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :** HTML, CSS, JavaScript, p5.js, Figma, Photoshop, Premier Pro, Blender  
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** Unity, Vue.js autres langages de codage utilisés dans le codage créatif.
 
 ## Références Artistiques
 
