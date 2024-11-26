@@ -27,9 +27,9 @@ people comes and goes
 
 = nft를 media, medium으로서 사용하는 data visualisation. 
 
-
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1024px-Minard.png)
 너무 아름답지않냐.. 
-Charles Joseph Minard — Wikipédia
+[Charles Joseph Minard — Wikipédia](https://fr.wikipedia.org/wiki/Charles_Joseph_Minard)
 
 과정 
 개인에 따른 nft 생성(미리 해야함) -> 지갑은 두 개가 필요. 둘 다 내 소유. 수많은 nft들이 등록된 지갑 하나와 nft들을 받을 지갑 하나. 
@@ -70,7 +70,7 @@ Il est peut-être naturel que cet environnement ait fait de moi un fataliste. To
 
 
 ## 161124
-Moi, qui ai changé entre-temps, non seulement à cause des gens, mais aussi influencé par toutes sortes de choses, de situations et d'événements autour de moi.
+*Moi, qui ai changé entre-temps, non seulement à cause des gens, mais aussi influencé par toutes sortes de choses, de situations et d'événements autour de moi.*
 
 Mais en certain raison je refuse de jeter ou oublier mes passe
 
@@ -78,13 +78,13 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 제각기 지니는 수많은 드라마와 개인의 무게감. 대화 단절, 소통 거부 및 갈등과 반목. 그 동시에 사람들은 애정과 인정 결핍에 시달려 외로움에 사무친다. 
 
-####하지만 파편화는 나쁜가? 각기 지나치게 다른 삶의 무게를 짊어질 수 있는 건 자기 자신 뿐일지 모른다. 그러니 우리는 바쁜 도시 속에서 서로 무관심하게 내버려 둔다. 에밀 뒤르켐(Émile Durkheim; 1858-1917)은 사회적 분업의 발달이 사회의 유기적 연대를 강화하나, 이상 상황에 있어서는 사회의 전체적 의존 관계가 교란되어, 무규제, 무통제의 분업이 사회적 아노미 상황의 원인이 된다고 한다. 일정한 사회에 있어서, 구성원의 행위를 규제하는 공통의 가치나 도덕적 규범이 상실된 혼돈상태를 나타내는 개념. 사회가 급격히 변동하였을 때 그에 대한 대응 규범이 나타나지 않으면, 사람들은 혼란을 겪게 되고, 이런 무규범 상태가 지속됨으로서 일탈이 발생한다는 것이다. (기능론적 관점) 사회분업론에 의한 의존 관계는 바람직한 것이나, 그 와중에 전문성을 가진 개인의 욕구와 행위가 제한 없이 폭주한다거나, 사회 규범을 흔드는 사건이나 풍조가 만연해 발생하는 동요나 소요 상태를 말한다. 즉 통제와 규제가 먹히질 않기 때문에, 극단적으로 치달으면 사실상 무정부상태에 가깝게 된다.
+#### 하지만 파편화는 나쁜가? 각기 지나치게 다른 삶의 무게를 짊어질 수 있는 건 자기 자신 뿐일지 모른다. 그러니 우리는 바쁜 도시 속에서 서로 무관심하게 내버려 둔다. 에밀 뒤르켐(Émile Durkheim; 1858-1917)은 사회적 분업의 발달이 사회의 유기적 연대를 강화하나, 이상 상황에 있어서는 사회의 전체적 의존 관계가 교란되어, 무규제, 무통제의 분업이 사회적 아노미 상황의 원인이 된다고 한다. 일정한 사회에 있어서, 구성원의 행위를 규제하는 공통의 가치나 도덕적 규범이 상실된 혼돈상태를 나타내는 개념. 사회가 급격히 변동하였을 때 그에 대한 대응 규범이 나타나지 않으면, 사람들은 혼란을 겪게 되고, 이런 무규범 상태가 지속됨으로서 일탈이 발생한다는 것이다. (기능론적 관점) 사회분업론에 의한 의존 관계는 바람직한 것이나, 그 와중에 전문성을 가진 개인의 욕구와 행위가 제한 없이 폭주한다거나, 사회 규범을 흔드는 사건이나 풍조가 만연해 발생하는 동요나 소요 상태를 말한다. 즉 통제와 규제가 먹히질 않기 때문에, 극단적으로 치달으면 사실상 무정부상태에 가깝게 된다.
 
 아노미(사회적 목표 및 합법적 성취수단의 괴리로 인한 혼란; aka 긴장이론, strain theory) 속의 나 
 -10세: 도피(retreatism)
 11-13세: 의례(ritualism)
 14-17세: 순응(conformity) + 이기적 자살(egoistic suicide) 욕구
-{15-19세 + 아노미적 자살(anomic suicide) 욕구}
+>15-19세 + 아노미적 자살(anomic suicide) 욕구
 18세-21세: 반항(Rebellion)
 -> 이 모든 것을 지나온 지금은?
 
