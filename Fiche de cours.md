@@ -204,6 +204,7 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 >15-19세 + 아노미적 자살(anomic suicide) 욕구
 
 18세-21세: 반항(Rebellion)
+
 -> 이 모든 것을 지나온 지금은?
 
 
@@ -252,7 +253,7 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 수치심은 사람 사이의 신뢰와 내적인 안정성 모두를 해치는 정서적 경험이다. 강렬한 수치심은 자기 내부의 질병, 즉 영혼의 질병이다. *(Gershen Kaufman, The Psychology of Shame, 1996)*
 
-나의 가장 큰 고통은 볼드모트가 되었다. 절대로 그(의 이름)를 언급해서는 안 돼. 내가 그의 거울이라는 점마저 해리와 볼드모트 관계 같구나. 
+나의 가장 큰 고통은 볼드모트가 되었다. 절대로 *그(의 이름)* 를 언급해서는 안 돼. 내가 그의 거울이라는 점마저 해리와 볼드모트 관계 같구나. 
 
 #### 하고 싶은 거.
 - diary archiving(my obsession in remembering/archiving in materialised form in reality + also as one of my long-held ambition)
@@ -261,8 +262,17 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 - ..and a maze of love(3d chess)
 
 
+***
 
 
+## 301124
 
-# Journal de bord
+노트르담이 2019년 화재 이후 올 12월 8일에 다시금 개장하기까지 5년이라는 시간이 흐른다. 석조 건물인데 왜 5년이나 걸렸을까 의문을 가질 수도 있으나, 원래 한 번 철저하게 파괴된 뒤에 소실된 것들을 추스르고 다시금 원래의 모습을 되살리는 데에는 지단한 노력이 필요한 법이다. 나는 여전히 --*자신을 피해자화하거나 무의식적으로 피해자로서의 위치에 남아있지 않으려 몇 년이고 노력했음에도 불구하고*-- 스스로가 완전히 파괴되었다고 생각하는 걸 멈출 수 없다. 가끔은 내 모든 것들이 너절한 걸레짝처럼 구멍이 나고 찢어진 것처럼 느껴진다. 
+
+그리고 내 동생. 사랑해서 제일 미운 내 동생. 그에게 무한한 애틋함을 느꼈다. 너만이 나를 진정 이해하리라 믿은 적도 있다. 왜냐면 나와 같은 가정에서 동일한 유년기를 지나온 사람은 너 하나 뿐이거든. 친구들에게 백 번 설명해도 알지 못할 것을 너는 직접 겪어도 봤거든. 그래서 너는 나와 같을 줄 알았어. 너 역시 나를 사랑할 줄 알았다. 그런데 아니었어. 내가 너를 사랑하는 만큼 너는 나를 사랑하지 않아. 
+
+한때 아버지 휴대폰 속 아이폰 앨범과 애플 클라우드에 내장된 인공지능은 어린 나의 얼굴과 내 동생을 구분하지 못하고 같은 폴더에 몰아넣고는 했다. 우린 그렇게나 같았다. 여전히 한 구석에서는 그러리라 믿었고 그러길 바랐는데 전혀 아니었어. 
+
+![유전자의 힘이란..?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kmib.co.kr%2Farticle%2Fview.asp%3Farcid%3D0011610247&psig=AOvVaw2qAmkKNLPm0wUkef4eM_AU&ust=1733045976695000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjC9L_hg4oDFQAAAAAdAAAAABAE)
+
 
