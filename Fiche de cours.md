@@ -277,6 +277,6 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 한때 아버지 휴대폰 속 아이폰 앨범과 애플 클라우드에 내장된 인공지능은 어린 나의 얼굴과 내 동생을 구분하지 못하고 같은 폴더에 몰아넣고는 했다. 우린 그렇게나 같았다. 여전히 한 구석에서는 그러리라 믿었고 그러길 바랐는데 전혀 아니었어. 
 
-![Alt text](https:/www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kmib.co.kr%2Farticle%2Fview.asp%3Farcid%3D0011610247&psig=AOvVaw2qAmkKNLPm0wUkef4eM_AU&ust=1733045976695000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjC9L_hg4oDFQAAAAAdAAAAABAE)
+![image](https://github.com/user-attachments/assets/c727bd64-fc5b-44ee-b660-767c06f87822)
 
 
