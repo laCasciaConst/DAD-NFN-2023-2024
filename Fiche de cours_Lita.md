@@ -129,18 +129,21 @@ people comes and goes
 ## 051124
 내 안에서 타인의 존재는 절대적이다. 독립적이고 유일하게 우뚝 서 있다. 우리가 만났던 사실은 transaction 기록으로서 지워지지 않는다. 
 
-= nft를 media, medium으로서 사용하는 data visualisation. 
 
-![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1024px-Minard.png)
-너무 아름답지않냐.. 
-
-[Charles Joseph Minard — Wikipédia](https://fr.wikipedia.org/wiki/Charles_Joseph_Minard)
 
 과정 
 
 개인에 따른 nft 생성(미리 해야함) -> 지갑은 두 개가 필요. 둘 다 내 소유. 수많은 nft들이 등록된 지갑 하나와 nft들을 받을 지갑 하나. 
 
 html 페이지에다 어떤 사용자가 정보를 입력하면 그 정보를 서버로 보냄, 그 정보는 변환되어 nft중 해당하는 것 하나를 등록지갑에서 받는지갑으로 보냄. 그러면 그 정보를 받아와서 html 페이지에 표시한다. 
+
+* Ref
+  * à Émilie: creative coding de [takawo](https://openprocessing.org/user/6533?view=sketches&o=48)
+  * data visualisation qui utilise nft comme un media, des medium
+    ![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Minard.png/1024px-Minard.png)
+    너무 아름답지않냐.. 
+
+    [Charles Joseph Minard — Wikipédia](https://fr.wikipedia.org/wiki/Charles_Joseph_Minard)
 
 
 ***
@@ -171,14 +174,14 @@ Il est peut-être naturel que cet environnement ait fait de moi un fataliste. To
 어쩌면 이런 환경이 나를 운명론자로 만든 것은 당연할지도 모른다. 모든 일에는 이유가 있어서 좋은 일과 나쁜 일이 자연스럽게 반복됩니다. 사람들의 오고 가는 것 또한 모두의 행운의 흐름에 따라 자연스러운 일이다.
 
 #### “Materialisation”
-
-+ [robbie barrat nft](https://www.google.com/search?sca_esv=fdc9a68c17428299&sxsrf=ADLYWIIuYkSO1ykAWQPxmXp4f3OEY5i18g:1731583763200&q=robbie+barrat+nft&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCFdb4kkCZQx4-ERIk5vUh0hWbBcn17qhcg4G1UyOj4Bl9j_97HfXX8OTbusU58gqfpTTpUF3jMnovRBnsQD-1SxLNszdOpGmKaKF6_vTOfYG1TtSSSrTUb5uynBwgdVG3mUF8St8xuOyCus8cfir1FAn0Ja5&sa=X&ved=2ahUKEwipv-qY3NuJAxVHcKQEHSEgF74QtKgLegQIFBAB&biw=1888&bih=927&dpr=1.35#vhid=t96-uRlK-uzrwM&vssid=mosaic)
-+ [caroline delieutraz ascii](https://www.google.com/search?sca_esv=fdc9a68c17428299&sxsrf=ADLYWIJH0H-CvwzJ2GGPCic_GwiZwzaTcQ:1731583448451&q=caroline+delieutraz+ascii&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCId2t1azIRgowYJD0nDbqEIN7XYIyS3uBYzHmWPp2pnW7G_IJrZtNDMziXf_SeaMZv5mQEpVVAa0sN9KIj0kgaUhXfFR1pvCaBMjGis3J2-YASoH3vq235tGT22LuP522AlHeE4&sa=X&ved=2ahUKEwjl0N-C29uJAxWUcKQEHfyWJ2AQtKgLegQIExAB&biw=1888&bih=927&dpr=1.35#vhid=1CpCCnZkMQfQQM&vssid=mosaic)
-+ [samuel bianchini ascii](https://www.google.com/search?q=samuel+bianchini+ascii&sca_esv=fdc9a68c17428299&udm=2&biw=1888&bih=927&sxsrf=ADLYWIJpv5iEGok0IndFGHOP_3tjONhY7Q%3A1731583477452&ei=9d01Z6umG7abkdUPgM_14Qw&ved=0ahUKEwjr9MmQ29uJAxW2TaQEHYBnPcwQ4dUDCBA&uact=5&oq=samuel+bianchini+ascii&gs_lp=EgNpbWciFnNhbXVlbCBiaWFuY2hpbmkgYXNjaWlInA5QAFirDHABeACQAQCYAVigAcwCqgEBNrgBA8gBAPgBAZgCA6ACkgHCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAgQQABgemAMAkgcBM6AH_AQ&sclient=img#vhid=Oc3HwIQrc1YIcM&vssid=mosaic)
-+ [SAMUEL BIANCHINI - ARTJAWS.COM](https://www.artjaws.com/en/portfolio/samuel-bianchini/)
-+ [aram bartholl](https://www.google.com/search?sca_esv=f66f7fdd57388f5a&sxsrf=ADLYWIIqbGhmMYSDaO4gtFOVPpr-sYwHGQ:1731584690541&q=aram+bartholl&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCId2t1azIRgowYJD0nDbqEIN7XYIyS3uBYzHmWPp2pnW7G_IJrZtNDMziXf_SeaMZv5mQEpVVAa0sN9KIj0kgaUhXfFR1pvCaBMjGis3J2-YASoH3vq235tGT22LuP522AlHeE4&sa=X&ved=2ahUKEwjt9ILT39uJAxXCTKQEHd4xElwQtKgLegQIExAB&biw=1888&bih=927&dpr=1.35#vhid=E5A7fdWQGcvltM&vssid=mosaic)
-+ [AI Generated Nude Portrait #7 Frame #64 | The Now Evening Auction | 2022 | Sotheby's](https://www.sothebys.com/en/buy/auction/2022/the-now-evening-auction/ai-generated-nude-portrait-7-frame-64)
-+ [컨셉츄얼 아트 ( Conceptual art ) : 네이버 블로그](https://blog.naver.com/stoppoint/222621362125)
++ Ref
+  + [robbie barrat nft](https://www.google.com/search?sca_esv=fdc9a68c17428299&sxsrf=ADLYWIIuYkSO1ykAWQPxmXp4f3OEY5i18g:1731583763200&q=robbie+barrat+nft&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCFdb4kkCZQx4-ERIk5vUh0hWbBcn17qhcg4G1UyOj4Bl9j_97HfXX8OTbusU58gqfpTTpUF3jMnovRBnsQD-1SxLNszdOpGmKaKF6_vTOfYG1TtSSSrTUb5uynBwgdVG3mUF8St8xuOyCus8cfir1FAn0Ja5&sa=X&ved=2ahUKEwipv-qY3NuJAxVHcKQEHSEgF74QtKgLegQIFBAB&biw=1888&bih=927&dpr=1.35#vhid=t96-uRlK-uzrwM&vssid=mosaic)
+  + [caroline delieutraz ascii](https://www.google.com/search?sca_esv=fdc9a68c17428299&sxsrf=ADLYWIJH0H-CvwzJ2GGPCic_GwiZwzaTcQ:1731583448451&q=caroline+delieutraz+ascii&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCId2t1azIRgowYJD0nDbqEIN7XYIyS3uBYzHmWPp2pnW7G_IJrZtNDMziXf_SeaMZv5mQEpVVAa0sN9KIj0kgaUhXfFR1pvCaBMjGis3J2-YASoH3vq235tGT22LuP522AlHeE4&sa=X&ved=2ahUKEwjl0N-C29uJAxWUcKQEHfyWJ2AQtKgLegQIExAB&biw=1888&bih=927&dpr=1.35#vhid=1CpCCnZkMQfQQM&vssid=mosaic)
+  + [samuel bianchini ascii](https://www.google.com/search?q=samuel+bianchini+ascii&sca_esv=fdc9a68c17428299&udm=2&biw=1888&bih=927&sxsrf=ADLYWIJpv5iEGok0IndFGHOP_3tjONhY7Q%3A1731583477452&ei=9d01Z6umG7abkdUPgM_14Qw&ved=0ahUKEwjr9MmQ29uJAxW2TaQEHYBnPcwQ4dUDCBA&uact=5&oq=samuel+bianchini+ascii&gs_lp=EgNpbWciFnNhbXVlbCBiaWFuY2hpbmkgYXNjaWlInA5QAFirDHABeACQAQCYAVigAcwCqgEBNrgBA8gBAPgBAZgCA6ACkgHCAgcQABiABBgTwgIGEAAYExgewgIIEAAYExgIGB7CAgQQABgemAMAkgcBM6AH_AQ&sclient=img#vhid=Oc3HwIQrc1YIcM&vssid=mosaic)
+  + [SAMUEL BIANCHINI - ARTJAWS.COM](https://www.artjaws.com/en/portfolio/samuel-bianchini/)
+  + [aram bartholl](https://www.google.com/search?sca_esv=f66f7fdd57388f5a&sxsrf=ADLYWIIqbGhmMYSDaO4gtFOVPpr-sYwHGQ:1731584690541&q=aram+bartholl&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCId2t1azIRgowYJD0nDbqEIN7XYIyS3uBYzHmWPp2pnW7G_IJrZtNDMziXf_SeaMZv5mQEpVVAa0sN9KIj0kgaUhXfFR1pvCaBMjGis3J2-YASoH3vq235tGT22LuP522AlHeE4&sa=X&ved=2ahUKEwjt9ILT39uJAxXCTKQEHd4xElwQtKgLegQIExAB&biw=1888&bih=927&dpr=1.35#vhid=E5A7fdWQGcvltM&vssid=mosaic)
+  + [AI Generated Nude Portrait #7 Frame #64 | The Now Evening Auction | 2022 | Sotheby's](https://www.sothebys.com/en/buy/auction/2022/the-now-evening-auction/ai-generated-nude-portrait-7-frame-64)
+  + [컨셉츄얼 아트 ( Conceptual art ) : 네이버 블로그](https://blog.naver.com/stoppoint/222621362125)
 
     ###### "Fil rouge" est une métaphore qui désigne un "fil conducteur". Il s'agit d'une idée directrice que l'on retrouve de façon récurrente et qui assure la cohérence d'un ensemble en se faisant point de repère. Exemple : Je veux que cette image soit le fil rouge de l'émission.
 
@@ -216,11 +219,10 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 ## 201124 
 
-[face tracking as art](https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98)
-
-[prostheticknowledge](https://prostheticknowledge.tumblr.com/)
-
-[Lenticular Encryption](https://prostheticknowledge.tumblr.com/post/77609751289/lenticular-encryption-this-is-a-small-project-i)
+* Ref
+  * [face tracking as art](https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98)
+  * [prostheticknowledge](https://prostheticknowledge.tumblr.com/)
+  * [Lenticular Encryption](https://prostheticknowledge.tumblr.com/post/77609751289/lenticular-encryption-this-is-a-small-project-i)
 
 
 ## 251124
@@ -243,9 +245,7 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 ## 261124
 
-말하고 싶어! 
-
-하지만 말할 수 없다. 
+말하고 싶어! 하지만 말할 수 없다. 
 
 너무 오래 맞고 자라서.
 
@@ -260,10 +260,10 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 나의 가장 큰 고통은 볼드모트가 되었다. 절대로 *그(의 이름)* 를 언급해서는 안 돼. 내가 그의 거울이라는 점마저 해리와 볼드모트 관계 같구나. 
 
 #### 하고 싶은 거.
-- diary archiving(my obsession in remembering/archiving in materialised form in reality + also as one of my long-held ambition)
-- 동생과 나에 대한 이야기
-- 그리고 무엇보다, 내 인생의 4분의 3을 차지하던 이 폭력에 대해 말해야 한다. 이제는 정말로 말해야 한다. 정말로 정말로 무언가 보여드리겠습니다.
-- ..and a maze of love(3d chess)
+  - diary archiving(my obsession in remembering/archiving in materialised form in reality + also as one of my long-held ambition)
+  - 동생과 나에 대한 이야기
+  - 그리고 무엇보다, 내 인생의 4분의 3을 차지하던 이 폭력에 대해 말해야 한다. 이제는 정말로 말해야 한다. 정말로 정말로 무언가 보여드리겠습니다.
+  - ..and a maze of love(3d chess)
 
 
 ***
