@@ -220,13 +220,10 @@ git push origin nom-de-votre-branche
 ### Suivre la discussion :
 - Que vous utilisiez la ligne de commande ou GitHub Desktop, n'oubliez  pas de suivre les commentaires sur votre pull request et d'apporter des  modifications si nécessaire.
 
-### Félicitations !
-Une fois  acceptée, votre contribution sera fusionnée dans le dépôt principal.  Vous avez ainsi participé à un projet open-source !
 
 
 
-
-## Ressources
+## Resources
 
 *Processing*
 
@@ -266,18 +263,6 @@ Une fois  acceptée, votre contribution sera fusionnée dans le dépôt principa
 
 
 
-Modèles des livrables
-
-
-
-
-
-Par exemple,  
-
-J'ai découvert le travail de Paolo Perdicini, son jeu phone story ma perturbé et j'ai lu récemment un article sur les jeux sans joueur. Je souhaite également expérimenté la création de simulation inspiré de phénomème social. C'est pour ça que je souhaite faire tel projet avec tel Unreal. PCk cet outil me permet de faire tel ou tel chose et que l'outil est connu pour son acessibilité et son réalisme etc. 
-
-L'utilisation du code me permettra de valider tel compétence et tel compétence. 
-
 #### Écriture de votre fiche pédagogique
 
 La fiche pédagogique est une sorte de cahier des charges entre vous et  moi. Elle constituera la référence de votre profil, de vos  connaissances, de l'avancement de vos projets et de vos objectifs.  Concrètement, c'est à vous de définir vos projets, vos thématiques de  recherche, vos outils et vos ambitions. L'ensemble doit être soutenu par un argumentaire solide et des références artistiques afin de rendre  votre démarche crédible.
@@ -292,16 +277,81 @@ VR, réalité virtuel, Web to print, 3D, Son Glitch édition, Visualisatioon son
 
 
 
-
-
 ## Liens repos étudiants
 
-Anne-Sophie : https://github.com/S0phieff/READMEPerso/blob/main/annesophie
+**Anne-Sophie** : 
 
-Valérie : https://github.com/yongval/DAD-NNN-Valerie
+Repo : https://github.com/S0phieff/READMEPerso/blob/main/annesophie
 
-Eda : https://github.com/etz223/DAD-eda-tinmaz/blob/main/Fiche
+Sujet de recherche :  Comment requestionner notre interprétation des images à travers des logiciels sonores ?
 
-Lita : https://github.com/laCasciaConst/NNN_2024/blob/main/Fiche%20de%20cours%20-%20exemple.md
 
-Émilie : https://github.com/emart2067/DAD-NNN-Emilie
+
+**Valérie** : 
+
+Repo : https://github.com/yongval/DAD-NNN-Valerie
+
+Sujet de recherche :  Questionner la présence des IA dans notre quotidien. 
+
+
+
+**Eda** : 
+
+<u>Repo :</u> https://github.com/etz223/DAD-eda-tinmaz/blob/main/Fiche
+
+<u>Sujet de recherche :</u> Comment la prolongation des arts traditionnel (du monde turcique) perdure à travers une pratique numérique ?
+
+
+
+**Lita :** 
+
+<u>Repo :</u> https://github.com/laCasciaConst/DAD-NFN-2023-2024
+
+<u>Sujet de recherche :</u> Comment aborder un phénomène social moderne à travers le prisme des mythes anciens ?
+
+
+
+**Émilie :** 
+
+<u>Repo git :</u> https://github.com/emart2067/DAD-NNN-Emilie
+
+<u>Sujet de recherche :</u> Comment créer des expériences contemplatives musicales ?
+
+
+
+**Bastien :** 
+
+<u>Repo :</u>https://github.com/Macalo78/DAD-Basien-Record
+
+<u>Sujet de recherche :</u> Avec ce jeu qui va pouvoir utilisé tout nos sens (touché, ouïe, visuel..) je veux explorer la réaction à l'intéraction.
+
+
+
+**Juan :** 
+<u>Repo :</u> https://github.com/sl3ndnetart/Repo-Juan/edit/main/README.md
+
+<u>Sujet de recherche :</u> Comment figurer la trace de l'homme sur son environement ?
+
+
+
+**Venya :**
+
+<u>Repo :</u> https://github.com/Venya2104/Venya-Jeevan-
+
+<u>Sujet de recherche :</u> How langages affect culture and study ? 
+
+
+
+**Jolaine**
+
+Lien vers le repo : https://github.com/Jolainek/DAD-Jolaine-Kanda/tree/main
+
+Présentation : Les robots autonome, l'histoire d'optimus. 
+
+Sujet de recherche : 
+
+
+
+**Hind** : 
+
+Lien vers le repo git : https://github.com/hiiiind/repo
