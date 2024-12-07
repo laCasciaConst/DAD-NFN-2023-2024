@@ -402,7 +402,8 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
         Style Boutique NDS - 나만의 컬렉션 Girls Style
 
   - [![Tutorial](https://img.youtube.com/vi/7s7uSx18DUc/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
-    Tuto Low-Poly
+    
+        Tuto Low-Poly
 
   Pixel
 
@@ -414,4 +415,4 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
 
   - [![Princess Maker 3](https://img.youtube.com/vi/FC6n_7d_9ew/0.jpg)](https://www.youtube.com/watch?v=FC6n_7d_9ew)
 
-    Princess Maker 3
+        Princess Maker 3
