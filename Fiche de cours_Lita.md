@@ -351,6 +351,12 @@ progresser dans la confrontation de mes plus grandes douleurs personnelles.
 
 ## 071224
 
-- Ref :
-  - [![Style Boutique NDS - 나만의 컬렉션 Girls Style]( https://img.youtube.com/vi/4dfDgpFGwGY/0.jpg)](https://www.youtube.com/embed/4dfDgpFGwGY?si=yV9EZSNdXP-XPr2C)
-  - 
+- Ref Visuel :
+
+  Low Poly 
+  - [![Style Boutique NDS - 나만의 컬렉션 Girls Style](https://img.youtube.com/vi/4dfDgpFGwGY/0.jpg)](https://www.youtube.com/embed/4dfDgpFGwGY?si=yV9EZSNdXP-XPr2C)
+  - [![나만의 컬렉션 Girls Style](https://img.youtube.com/vi/LPzxV0LznSI/0.jpg)](https://www.youtube.com/watch?v=LPzxV0LznSI)
+        Style Boutique NDS - 나만의 컬렉션 Girls Style
+
+  - [![Tutorial](https://img.youtube.com/vi/yCVevk872cb2stCn/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
+        Tuto Low-Poly
