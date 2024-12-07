@@ -162,6 +162,8 @@ Il est peut-être naturel que cet environnement ait fait de moi un fataliste. To
   - [aram bartholl](https://www.google.com/search?sca_esv=f66f7fdd57388f5a&sxsrf=ADLYWIIqbGhmMYSDaO4gtFOVPpr-sYwHGQ:1731584690541&q=aram+bartholl&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCId2t1azIRgowYJD0nDbqEIN7XYIyS3uBYzHmWPp2pnW7G_IJrZtNDMziXf_SeaMZv5mQEpVVAa0sN9KIj0kgaUhXfFR1pvCaBMjGis3J2-YASoH3vq235tGT22LuP522AlHeE4&sa=X&ved=2ahUKEwjt9ILT39uJAxXCTKQEHd4xElwQtKgLegQIExAB&biw=1888&bih=927&dpr=1.35#vhid=E5A7fdWQGcvltM&vssid=mosaic)
   - [AI Generated Nude Portrait #7 Frame #64 | The Now Evening Auction | 2022 | Sotheby's](https://www.sothebys.com/en/buy/auction/2022/the-now-evening-auction/ai-generated-nude-portrait-7-frame-64)
   - [컨셉츄얼 아트 ( Conceptual art ) : 네이버 블로그](https://blog.naver.com/stoppoint/222621362125)
+  - [Mark Lombardi](https://www.google.com/search?sca_esv=4739c83ae12d61ba&sxsrf=ADLYWIIsk_uulOEQPf7BU3-cHHrQZolcfw:1730818710441&q=mark+lombardi&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCId2t1azIRgowYJD0nDbqEIN7XYIyS3uBYzHmWPp2pnW9Bf-eKLmWBCRbGVKatyojKtYgZDdat5BVe4bfN4h9Vq3kDh6CPN4CzfUUJz5WEWwfL1jdbNyTPwalkhQzFotKX3TwUY35qtfYYbz34HK8D5G-ILf&sa=X&ved=2ahUKEwj78p-TusWJAxULUqQEHQNfBGQQtKgLegQIHBAB&biw=1888&bih=927&dpr=1.35#vhid=qbLauWibejdgpM&vssid=mosaic)
+  - [Les topographies du pouvoir de Mark Lombardi : l’oeuvre dans la carte](https://espaceartactuel.com/topographies-du-pouvoir-mark-lombardi/)
 
     ###### "Fil rouge" est une métaphore qui désigne un "fil conducteur". Il s'agit d'une idée directrice que l'on retrouve de façon récurrente et qui assure la cohérence d'un ensemble en se faisant point de repère. Exemple : Je veux que cette image soit le fil rouge de l'émission.
 
@@ -193,6 +195,10 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 
 -> 이 모든 것을 지나온 지금은?
 
+- [Emile Durkheim](https://fr.wikipedia.org/wiki/%C3%89mile_Durkheim)
+- [해체주의와 파편화 현상](https://m.blog.naver.com/apple488/220655066238)
+- [파편화되는 우리와 너무 쉽게 친해지는 사회](https://blog.naver.com/baramyess/221671074107)
+
 ---
 
 ## 201124
@@ -201,6 +207,8 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
   - [face tracking as art](https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98)
   - [prostheticknowledge](https://prostheticknowledge.tumblr.com/)
   - [Lenticular Encryption](https://prostheticknowledge.tumblr.com/post/77609751289/lenticular-encryption-this-is-a-small-project-i)
+
+---
 
 ## 251124
 
@@ -267,6 +275,11 @@ Mais en certain raison je refuse de jeter ou oublier mes passe
 분노하는 법을 잊어버렸다…… 분명 안 이랬는데. 초등학교 때까지는 '네가 잘못했으니 사과하라'는 말도 어렵지 않게 했었다. 지금의 나는 화조차 제대로 낼 수 없더라. 그 말은 완전히 용서하는 법도 잊었다는 거다. 한 번 화를 쏟아붓고 나면 후련해져 괜찮을 텐데. 그저 마음 속에서 끝 없이 졸이고 졸여서 남은 건더기까지 타 없어지고 그 재와 연기가 내 속만 까맣게 그슬릴 때까지 그저 기다리는 법 뿐이 알지 못한다.
 
 답답하다.
+
+- Ref
+  - [Enigmatriz](https://enigmatriz.com/)
+  - [1mposter](https://lynkfire.com/1mposter) <- 이사람 진짜 쩔어
+    [Twitter](https://x.com/_1mposter)
 
 ---
 
@@ -347,16 +360,36 @@ distance face à cette thématique, qui reste parfois éprouvante à aborder.
 Cependant, je souhaite qu’au-delà de ce projet, cette œuvre me permette de
 progresser dans la confrontation de mes plus grandes douleurs personnelles.
 
+![3D](src/IMG_0865.JPG)
+![3D](src/IMG_0866.JPG)
+![Low-Poly](src/IMG_0868.JPG)
+![8 bit](src/IMG_0867.JPG)
+![8 bit](src/IMG_0869.JPG)
+
 ---
 
 ## 071224
 
 - Ref Visuel :
 
-  Low Poly 
+  Low Poly
+
   - [![Style Boutique NDS - 나만의 컬렉션 Girls Style](https://img.youtube.com/vi/4dfDgpFGwGY/0.jpg)](https://www.youtube.com/embed/4dfDgpFGwGY?si=yV9EZSNdXP-XPr2C)
   - [![나만의 컬렉션 Girls Style](https://img.youtube.com/vi/LPzxV0LznSI/0.jpg)](https://www.youtube.com/watch?v=LPzxV0LznSI)
+
         Style Boutique NDS - 나만의 컬렉션 Girls Style
 
-  - [![Tutorial](https://img.youtube.com/vi/yCVevk872cb2stCn/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
+  - [![Tutorial](https://img.youtube.com/vi/7s7uSx18DUc/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
         Tuto Low-Poly
+
+  Pixel
+
+  - [![Doukyuusei](https://img.youtube.com/vi/MfdTxC23swrdnZGV/0.jpg)](https://youtu.be/0id_T1S3c_w?si=MfdTxC23swrdnZGV)
+
+        Doukyuusei : 8bit 16 couleur dot graphique
+
+- Ref System :
+
+  - [![Princess Maker 3](https://img.youtube.com/vi/FC6n_7d_9ew/0.jpg)](https://www.youtube.com/watch?v=FC6n_7d_9ew)
+
+    Princess Maker 3
