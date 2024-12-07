@@ -370,6 +370,28 @@ progresser dans la confrontation de mes plus grandes douleurs personnelles.
 
 ## 071224
 
+![1](src/KakaoTalk_20241207_163615030.png)
+![2](src/KakaoTalk_20241207_163615030_01.png)
+![3](src/KakaoTalk_20241207_163615030_02.png)
+![4](src/KakaoTalk_20241207_163615030_03.png)
+
+Ton idée de jeu est très intéressante et riche en possibilités narratives ! Voici une reformulation claire et fluide en français pour la décrire, tout en prenant en compte tes objectifs :
+
+---
+
+### Concept du jeu 🎮🦊
+
+Le jeu met en scène des jumeaux, un frère et une sœur, et un(e) **gumiho** (renard légendaire avec 9 queues et peut se transformer) caché(e) dans leur famille. Ce gumiho cherche à comprendre les humains pour pouvoir devenir pleinement humain lui-même.
+
+Le joueur doit constamment faire des choix entre suivre le frère ou la sœur. Chaque choix influence les **statuts** des personnages (valeurs, compétences, expériences), ce qui détermine les différentes fins possibles.
+
+- La sœur deviens une militante féministe engagée dans les mouvements politiques.
+- Le frère, quant à lui, offre une autre perspective de vie.
+
+Bien que le chemin logique serait de suivre la sœur pour progresser vers une fin positive, le jeu propose une diversité de fins pour inciter le joueur à **réfléchir à ses choix** et à explorer plusieurs scénarios.
+
+Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et sans sexe défini jusqu’à la fin du jeu, reflétant ainsi son désir d’apprentissage et d’adaptation à l'humanité.
+
 - Ref Visuel :
 
   Low Poly
@@ -380,11 +402,11 @@ progresser dans la confrontation de mes plus grandes douleurs personnelles.
         Style Boutique NDS - 나만의 컬렉션 Girls Style
 
   - [![Tutorial](https://img.youtube.com/vi/7s7uSx18DUc/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
-        Tuto Low-Poly
+    Tuto Low-Poly
 
   Pixel
 
-  - [![Doukyuusei](https://img.youtube.com/vi/MfdTxC23swrdnZGV/0.jpg)](https://youtu.be/0id_T1S3c_w?si=MfdTxC23swrdnZGV)
+  - [![Doukyuusei](https://img.youtube.com/vi/0id_T1S3c_w/0.jpg)](https://youtu.be/0id_T1S3c_w?si=MfdTxC23swrdnZGV)
 
         Doukyuusei : 8bit 16 couleur dot graphique
 
