@@ -419,14 +419,14 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
 
 - Ref 
 
-    [![Super Mario 64 DS | The Best Worst Version - Scott The Woz](https://img.youtube.com/vi/wOyONZpRn0mQDhde/0.jpg)](https://youtu.be/lmSdaKBdcFQ?si=wOyONZpRn0mQDhde)
+    [![Super Mario 64 DS | The Best Worst Version - Scott The Woz](https://img.youtube.com/vi/lmSdaKBdcFQ/0.jpg)](https://www.youtube.com/watch?v=lmSdaKBdcFQ&t=1210s)
 
   - Super Mario 64 DS
 
-    [![How I Learned to Create Retro Game Characters](https://img.youtube.com/vi/nGJLbd2OjLuhtJCB/0.jpg)](https://youtu.be/1FteWqBSg4c?si=nGJLbd2OjLuhtJCB)
+    [![How I Learned to Create Retro Game Characters](https://img.youtube.com/vi/1FteWqBSg4c/0.jpg)](https://www.youtube.com/watch?v=1FteWqBSg4c)
 
   - How I Learned to Create Retro Game Characters
 
-    [![THE IDOLM@STER アーケード版（アケマス）春香](https://img.youtube.com/vi/-5jHWZ2VUdDnRUYY/0.jpg)](https://youtu.be/1frLJ823ZuM?si=-5jHWZ2VUdDnRUYY)
+    [![THE IDOLM@STER アーケード版（アケマス）春香](https://img.youtube.com/vi/1frLJ823ZuM/0.jpg)](https://www.youtube.com/watch?v=1frLJ823ZuM)
 
   - THE IDOLM@STER アーケード版（アケマス）
