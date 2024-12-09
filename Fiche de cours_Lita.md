@@ -375,10 +375,6 @@ progresser dans la confrontation de mes plus grandes douleurs personnelles.
 ![3](src/KakaoTalk_20241207_163615030_02.png)
 ![4](src/KakaoTalk_20241207_163615030_03.png)
 
-Ton idée de jeu est très intéressante et riche en possibilités narratives ! Voici une reformulation claire et fluide en français pour la décrire, tout en prenant en compte tes objectifs :
-
----
-
 ### Concept du jeu 🎮🦊
 
 Le jeu met en scène des jumeaux, un frère et une sœur, et un(e) **gumiho** (renard légendaire avec 9 queues et peut se transformer) caché(e) dans leur famille. Ce gumiho cherche à comprendre les humains pour pouvoir devenir pleinement humain lui-même.
@@ -416,3 +412,21 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
     [![Princess Maker 3](https://img.youtube.com/vi/FC6n_7d_9ew/0.jpg)](https://www.youtube.com/watch?v=FC6n_7d_9ew)
 
     -  Princess Maker 3
+
+---
+
+## 091224
+
+- Ref 
+
+    [![Super Mario 64 DS | The Best Worst Version - Scott The Woz](https://img.youtube.com/vi/lmSdaKBdcFQ/0.jpg)](https://www.youtube.com/watch?v=lmSdaKBdcFQ&t=1210s)
+
+  - Super Mario 64 DS
+
+    [![How I Learned to Create Retro Game Characters](https://img.youtube.com/vi/1FteWqBSg4c&t/0.jpg)](https://www.youtube.com/watch?v=1FteWqBSg4c&t=118s)
+
+  - How I Learned to Create Retro Game Characters
+
+    [![THE IDOLM@STER アーケード版（アケマス）春香](https://img.youtube.com/vi/1frLJ823ZuM&t/0.jpg)](https://www.youtube.com/watch?v=1frLJ823ZuM&t)
+
+  - THE IDOLM@STER アーケード版（アケマス）
