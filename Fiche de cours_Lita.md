@@ -390,44 +390,43 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
 
 - #### Ref Visuel :
 
-    ##### Low Poly
+  ##### Low Poly
 
-    [![Style Boutique NDS - 나만의 컬렉션 Girls Style](https://img.youtube.com/vi/4dfDgpFGwGY/0.jpg)](https://www.youtube.com/embed/4dfDgpFGwGY?si=yV9EZSNdXP-XPr2C)
-    [![나만의 컬렉션 Girls Style](https://img.youtube.com/vi/LPzxV0LznSI/0.jpg)](https://www.youtube.com/watch?v=LPzxV0LznSI)
+  [![Style Boutique NDS - 나만의 컬렉션 Girls Style](https://img.youtube.com/vi/4dfDgpFGwGY/0.jpg)](https://www.youtube.com/embed/4dfDgpFGwGY?si=yV9EZSNdXP-XPr2C)
+  [![나만의 컬렉션 Girls Style](https://img.youtube.com/vi/LPzxV0LznSI/0.jpg)](https://www.youtube.com/watch?v=LPzxV0LznSI)
 
-    - Style Boutique NDS - 나만의 컬렉션 Girls Style
+  - Style Boutique NDS - 나만의 컬렉션 Girls Style
 
-    [![Tutorial](https://img.youtube.com/vi/7s7uSx18DUc/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
-    
-    -  Tuto Low-Poly
+  [![Tutorial](https://img.youtube.com/vi/7s7uSx18DUc/0.jpg)](https://youtu.be/7s7uSx18DUc?si=yCVevk872cb2stCn)
 
-    ##### Pixel
+  - Tuto Low-Poly
 
-    [![Doukyuusei](https://img.youtube.com/vi/0id_T1S3c_w/0.jpg)](https://youtu.be/0id_T1S3c_w?si=MfdTxC23swrdnZGV)
+  ##### Pixel
 
-    -  Doukyuusei : 8bit 16 couleur dot graphique
+  [![Doukyuusei](https://img.youtube.com/vi/0id_T1S3c_w/0.jpg)](https://youtu.be/0id_T1S3c_w?si=MfdTxC23swrdnZGV)
+
+  - Doukyuusei : 8bit 16 couleur dot graphique
 
 - #### Ref System :
 
-    -  Princess Maker 3
+  [![Princess Maker 3](https://img.youtube.com/vi/FC6n_7d_9ew/0.jpg)](https://www.youtube.com/watch?v=FC6n_7d_9ew)
 
-    [![Princess Maker 3](https://img.youtube.com/vi/FC6n_7d_9ew/0.jpg)](https://www.youtube.com/watch?v=FC6n_7d_9ew)
+  - Princess Maker 3
 
 ---
 
 ## 081224
 
-- Ref 
+- Ref
 
-    - Super Mario 64 DS
+  [![Super Mario 64 DS | The Best Worst Version - Scott The Woz](https://img.youtube.com/vi/lmSdaKBdcFQ/0.jpg)](https://www.youtube.com/watch?v=lmSdaKBdcFQ&t=1210s)
 
-    [![Super Mario 64 DS | The Best Worst Version - Scott The Woz](https://img.youtube.com/vi/lmSdaKBdcFQ/0.jpg)](https://www.youtube.com/watch?v=lmSdaKBdcFQ&t=1210s)
+  - Super Mario 64 DS
 
-    - How I Learned to Create Retro Game Characters
+  [![How I Learned to Create Retro Game Characters](https://img.youtube.com/vi/1FteWqBSg4c/0.jpg)](https://www.youtube.com/watch?v=1FteWqBSg4c)
 
-    [![How I Learned to Create Retro Game Characters](https://img.youtube.com/vi/1FteWqBSg4c/0.jpg)](https://www.youtube.com/watch?v=1FteWqBSg4c)
+  - How I Learned to Create Retro Game Characters
 
-    - THE IDOLM@STER アーケード版（アケマス）
+  [![THE IDOLM@STER アーケード版（アケマス）春香](https://img.youtube.com/vi/1frLJ823ZuM/0.jpg)](https://www.youtube.com/watch?v=1frLJ823ZuM)
 
-    [![THE IDOLM@STER アーケード版（アケマス）春香](https://img.youtube.com/vi/1frLJ823ZuM/0.jpg)](https://www.youtube.com/watch?v=1frLJ823ZuM)
-
+  - THE IDOLM@STER アーケード版（アケマス）
