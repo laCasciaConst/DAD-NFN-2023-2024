@@ -472,7 +472,7 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
 
   - [HyperCard](https://fr.wikipedia.org/wiki/HyperCard)
 
-  - ![천년여우 여우비](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftour.baragi.net%2Fpage%2Fmovie%2Fboard.php%3Fbo_table%3Dmovieinfo%26wr_id%3D20060408&psig=AOvVaw3UzLQAycvPchOQB5h2H-k5&ust=1733906765839000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDb_5nonIoDFQAAAAAdAAAAABAd)
+  - ![천년여우 여우비](src/yeoubi.jpg)
 
     - Jeux 
       
