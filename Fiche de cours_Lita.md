@@ -454,3 +454,32 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
   [![👻 Complete Haunted PS1 Graphics Guide for Unity](https://img.youtube.com/vi/roC6bHy-ypU/0.jpg)](https://youtu.be/roC6bHy-ypU?si=x1Zcf-h0MsyLfVSG)
 
   - 👻 Complete Haunted PS1 Graphics Guide for Unity
+
+  ---
+
+## 101224
+
+
+![conservatism of men](src/conservatism_of_men.jpg)
+
+- Ref
+
+  [![PS1 Style Texturing & 3D Modelling Tutorial | Blender & Texture Ripper Walkthrough](https://img.youtube.com/vi/nHqLn8AsN5k/0.jpg)](https://youtu.be/nHqLn8AsN5k?si=9SSXzAaAVQNvEOuJ)
+
+  - PS1 Style Texturing & 3D Modelling Tutorial
+
+  - [Esthétique par défaut](http://slow.free.fr/clans/pages/litterature/Esthetique_par_defaut.html#2)
+
+  - [HyperCard](https://fr.wikipedia.org/wiki/HyperCard)
+
+  - ![천년여우 여우비](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftour.baragi.net%2Fpage%2Fmovie%2Fboard.php%3Fbo_table%3Dmovieinfo%26wr_id%3D20060408&psig=AOvVaw3UzLQAycvPchOQB5h2H-k5&ust=1733906765839000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDb_5nonIoDFQAAAAAdAAAAABAd)
+
+    - Jeux 
+      
+      - [A dark Room](https://adarkroom.doublespeakgames.com/)
+
+      [![Truss](https://img.youtube.com/vi/ZKf6YouEVN0/0.jpg)](https://youtu.be/ZKf6YouEVN0)
+
+      - [Truss](https://ompuco.itch.io/truss)
+
+      - [MouthWashing](https://fr.wikipedia.org/wiki/Mouthwashing)
