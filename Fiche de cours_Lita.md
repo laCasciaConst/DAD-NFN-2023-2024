@@ -491,3 +491,34 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
 ## 111224
 
 https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
+
+
+- Ref
+
+  - Nina Freeman
+
+    [How do you Do It?](https://store.steampowered.com/app/353360/how_do_you_Do_It/)
+
+    [Cibele](https://store.steampowered.com/app/408120/Cibele/?l=french)
+
+  - [Tale of Tails](https://store.steampowered.com/app/2366950/Aya_Tale_of_Tails/?l=french)
+
+  - Pippin Barr (bien sur)
+
+  - [Yoko Taro](https://fr.wikipedia.org/wiki/Yoko_Taro)
+
+  - Christine love
+  
+    [Analogue: A Hate Story](https://store.steampowered.com/app/209370/Analogue_A_Hate_Story/)
+
+- Ref Theorique  
+
+  - [Jesper Juul](https://en.wikipedia.org/wiki/Jesper_Juul_(game_researcher))
+
+  - [Ian Bogost](https://en.wikipedia.org/wiki/Ian_Bogost)
+
+    [persuasive games: the expressive power of videogames](https://direct.mit.edu/books/monograph/4392/Persuasive-GamesThe-Expressive-Power-of-Videogames)
+
+  - [Gonzalo Frasca](https://en.wikipedia.org/wiki/Gonzalo_Frasca)
+
+  - [Ueda Fumito](https://es.wikipedia.org/wiki/Fumito_Ueda)
