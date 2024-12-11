@@ -388,9 +388,9 @@ Bien que le chemin logique serait de suivre la sœur pour progresser vers une fi
 
 Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et sans sexe défini jusqu’à la fin du jeu, reflétant ainsi son désir d’apprentissage et d’adaptation à l'humanité.
 
-- #### Ref Visuel :
+- ### Ref Visuel :
 
-  ##### Low Poly
+  #### Low Poly
 
   [![Style Boutique NDS - 나만의 컬렉션 Girls Style](https://img.youtube.com/vi/4dfDgpFGwGY/0.jpg)](https://www.youtube.com/embed/4dfDgpFGwGY?si=yV9EZSNdXP-XPr2C)
   [![나만의 컬렉션 Girls Style](https://img.youtube.com/vi/LPzxV0LznSI/0.jpg)](https://www.youtube.com/watch?v=LPzxV0LznSI)
@@ -401,13 +401,13 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
 
   - Tuto Low-Poly
 
-  ##### Pixel
+  #### Pixel
 
   [![Doukyuusei](https://img.youtube.com/vi/0id_T1S3c_w/0.jpg)](https://youtu.be/0id_T1S3c_w?si=MfdTxC23swrdnZGV)
 
   - Doukyuusei : 8bit 16 couleur dot graphique
 
-- #### Ref System :
+- ### Ref System :
 
   [![Princess Maker 3](https://img.youtube.com/vi/FC6n_7d_9ew/0.jpg)](https://www.youtube.com/watch?v=FC6n_7d_9ew)
 
@@ -430,3 +430,64 @@ Le personnage du gumiho, quant à lui, reste intentionnellement **androgyne** et
   [![THE IDOLM@STER アーケード版（アケマス）春香](https://img.youtube.com/vi/1frLJ823ZuM/0.jpg)](https://www.youtube.com/watch?v=1frLJ823ZuM)
 
   - THE IDOLM@STER アーケード版（アケマス）
+
+---
+
+## 091224
+
+- Ref
+
+  - [Haunted PSX Render Pipelines](https://github.com/pastasfuture/com.hauntedpsx.render-pipelines.psx)
+
+  [![The Truth About PS1 Graphics](https://img.youtube.com/vi/ESXAxtdEkzY/0.jpg)](https://youtu.be/ESXAxtdEkzY?si=GN0ewYZKURpxvHQM)
+
+  - The Truth About PS1 Graphics
+
+  [![How To Make PS2 Graphics](https://img.youtube.com/vi/0_-K56PVeh4/0.jpg)](https://youtu.be/0_-K56PVeh4?si=ZgbZu9I_kAhGRuvv)
+
+  - How To Make PS2 Graphics
+
+  [![So I Learned To Make PS1 Graphics In Less Than 24 Hours](https://img.youtube.com/vi/vubxL52NlAY/0.jpg)](https://youtu.be/vubxL52NlAY?si=tocKTp-5fQcrOLaQ)
+
+  - So I Learned To Make PS1 Graphics In Less Than 24 Hours
+
+  [![👻 Complete Haunted PS1 Graphics Guide for Unity](https://img.youtube.com/vi/roC6bHy-ypU/0.jpg)](https://youtu.be/roC6bHy-ypU?si=x1Zcf-h0MsyLfVSG)
+
+  - 👻 Complete Haunted PS1 Graphics Guide for Unity
+
+  ---
+
+## 101224
+
+
+![conservatism of men](src/conservatism_of_men.jpg)
+
+- Ref
+
+  [![PS1 Style Texturing & 3D Modelling Tutorial | Blender & Texture Ripper Walkthrough](https://img.youtube.com/vi/nHqLn8AsN5k/0.jpg)](https://youtu.be/nHqLn8AsN5k?si=9SSXzAaAVQNvEOuJ)
+
+  - PS1 Style Texturing & 3D Modelling Tutorial
+
+  - [Esthétique par défaut](http://slow.free.fr/clans/pages/litterature/Esthetique_par_defaut.html#2)
+
+  - [HyperCard](https://fr.wikipedia.org/wiki/HyperCard)
+
+    ![천년여우 여우비](src/yeoubi.jpg)
+
+  - 천년여우 여우비
+
+    - Jeux 
+      
+      - [A dark Room](https://adarkroom.doublespeakgames.com/)
+
+      [![Truss](https://img.youtube.com/vi/ZKf6YouEVN0/0.jpg)](https://youtu.be/ZKf6YouEVN0)
+
+      - [Truss](https://ompuco.itch.io/truss)
+
+      - [MouthWashing](https://fr.wikipedia.org/wiki/Mouthwashing)
+
+---
+
+## 111224
+
+https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
