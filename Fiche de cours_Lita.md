@@ -501,9 +501,9 @@ https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
 
   - Nina Freeman
 
-    [How do you Do It?](https://store.steampowered.com/app/353360/how_do_you_Do_It/)
+    - [How do you Do It?](https://store.steampowered.com/app/353360/how_do_you_Do_It/)
 
-    [Cibele](https://store.steampowered.com/app/408120/Cibele/?l=french)
+    - [Cibele](https://store.steampowered.com/app/408120/Cibele/?l=french)
 
   - [Tale of Tails](https://store.steampowered.com/app/2366950/Aya_Tale_of_Tails/?l=french)
 
@@ -513,7 +513,7 @@ https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
 
   - Christine love
   
-    [Analogue: A Hate Story](https://store.steampowered.com/app/209370/Analogue_A_Hate_Story/)
+    - [Analogue: A Hate Story](https://store.steampowered.com/app/209370/Analogue_A_Hate_Story/)
 
 - Ref Theorique  
 
@@ -521,7 +521,7 @@ https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
 
   - [Ian Bogost](https://en.wikipedia.org/wiki/Ian_Bogost)
 
-    [persuasive games: the expressive power of videogames](https://direct.mit.edu/books/monograph/4392/Persuasive-GamesThe-Expressive-Power-of-Videogames)
+    - [persuasive games: the expressive power of videogames](https://direct.mit.edu/books/monograph/4392/Persuasive-GamesThe-Expressive-Power-of-Videogames)
 
   - [Gonzalo Frasca](https://en.wikipedia.org/wiki/Gonzalo_Frasca)
 
