@@ -526,3 +526,12 @@ https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
   - [Gonzalo Frasca](https://en.wikipedia.org/wiki/Gonzalo_Frasca)
 
   - [Ueda Fumito](https://es.wikipedia.org/wiki/Fumito_Ueda)
+
+
+## 060125
+
+- Ref
+
+  - [![twilight syndrome saikai](https://cdn.thegamesdb.net/images/medium/screenshot/62473-1.jpg)](https://www.google.com/search?sca_esv=598c226b643eedfc&q=twilight+syndrome+saikai&udm=2&fbs=AEQNm0CbCVgAZ5mWEJDg6aoPVcBgTlosgQSuzBMlnAdio07UCCJug3WzoI_0_7bcYmDUufyiZo0OmOGEiyRGYAdeCNb_HyDEfqlSaP-lwX4TI4XK5zSdh3PwStLrx1bwsCEiIfaRughLOr4inpoQQ0J1aCHcb5J0Eg3mjEPPJ1Em93G5eN198Ng&sa=X&ved=2ahUKEwjy8-r1teGKAxXgUaQEHS_ECfIQtKgLegQIFBAB&biw=1888&bih=927&dpr=1.35#vhid=xZBb1TxBudoa3M&vssid=mosaic)
+
+    Twilight Syndrome Saikai
