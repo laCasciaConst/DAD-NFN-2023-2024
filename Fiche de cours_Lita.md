@@ -566,3 +566,8 @@ Digital is made to forget, Analogue is made to remember. 디지털은 잊기 위
  - [아카이브에 관한 관습적 해석](https://m.artinpost.co.kr/product/public-tech/4769/)
 
 ![Les failles des archives numériques](src/digital_record.png)
+![Les failles des archives numériques](src/digital_data.png)
+
+ - [The Illusion of Digital Permanency](https://cambridgeblog.org/2015/11/the-illusion-of-digital-permanency/)
+ - [The Internet, Warts and All - chapter 2, Illutions of Permanence](https://www.cambridge.org/core/books/abs/internet-warts-and-all/illusions-of-permanence/D55BEE8E5AE602AF0CCB3F8174A3C848)
+ - [The Internet is not as Permanent as you think](https://rasterling.medium.com/the-internet-is-not-as-permanent-as-you-think-61bd624eefa5)
