@@ -545,7 +545,7 @@ https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
 
 ## 100225
 
-차별받는 한녀가 될 수 있는 것 : 1. 페미전사(1.1. 4B한녀, 1.2. 무지개 퀴어페미) 2. 남미새 3. 명예남성(여경이 되어서 여성 시위자들을 과격하게 끌고가는 역할을 한다!)
+차별받는 한녀의 테크트리리 : 1. 페미전사(1.1. 4B한녀, 1.2. 무지개 퀴어페미) 2. 남미새 3. 명예남성(여경이 되어서 여성 시위자들을 과격하게 끌고가는 역할을 한다!)
 
 한국남성의 테크트리 : 1. 사회성 좋고 정치 참여를 극도로 꺼리며 나이브한 일반남성 2. 피해망상 극우 3. 군무새, 군대에 말뚝박음, 국가에 충성
 
@@ -557,6 +557,7 @@ https://twinery.org/2/#/stories/5ea5e305-3d6a-4002-92b9-d61949a3d300
 1. 억울함(없으면 남미새 또는 남자 1번) 2. 정치참여(PC함? 깨어있음?)-> 페미전사 또는 극우 3. 교우관계(높아야 남자1번 가능, 하지만 올리기 어려운 편? 왜냐면 대부분의 '남성'은 2번 결과로 나와서..) 4.  
 
 choix conseauqnce et choix l'abandonne 
+
 la vision lointaine 
 
 ## 240225 
@@ -571,3 +572,5 @@ Digital is made to forget, Analogue is made to remember. 디지털은 잊기 위
  - [The Illusion of Digital Permanency](https://cambridgeblog.org/2015/11/the-illusion-of-digital-permanency/)
  - [The Internet, Warts and All - chapter 2, Illutions of Permanence](https://www.cambridge.org/core/books/abs/internet-warts-and-all/illusions-of-permanence/D55BEE8E5AE602AF0CCB3F8174A3C848)
  - [The Internet is not as Permanent as you think](https://rasterling.medium.com/the-internet-is-not-as-permanent-as-you-think-61bd624eefa5)
+
+## 250225 
