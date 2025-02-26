@@ -573,4 +573,25 @@ Digital is made to forget, Analogue is made to remember. 디지털은 잊기 위
  - [The Internet, Warts and All - chapter 2, Illutions of Permanence](https://www.cambridge.org/core/books/abs/internet-warts-and-all/illusions-of-permanence/D55BEE8E5AE602AF0CCB3F8174A3C848)
  - [The Internet is not as Permanent as you think](https://rasterling.medium.com/the-internet-is-not-as-permanent-as-you-think-61bd624eefa5)
 
-## 250225 
+ - Livre 
+  - [Internet. Au-delà du virtuel - Matheiu Burniat](https://www.lelombard.com/bd/petite-bedetheque-des-savoirs-la/internet-au-dela-du-virtuel)
+  - [Les Fins Du Monde De L'Antiquité à Nos Jours - Jean-Noël Lafargue](https://editionslesperegrines.fr/fr/books/les-fins-du-monde-de-lantiquite-a-nos-jours)
+
+## 260225 
+
+émancipation, émancipatrice; émanciper 
+
+[Immersion Revue](https://immersion-revue.fr/)
+
+Johan Huizinga
+Angelo Careri 
+
+- Article
+  - en quoi les jeux video repondent-ils a un besoin culture et indentitaire maxime vilain
+  - [Les jeux vidéo, sociologie d’un loisir de masse](https://laviedesidees.fr/Les-jeux-video-sociologie-d-un-loisir-de-masse)
+
+- Livre
+  - [L'Art des Jeux Vidéo](https://pur-editions.fr/product/9104/l-art-des-jeux-video)
+  - [Les avatars jouables des mondes numériques: Théories, terrains et témoignages de pratiques interactives](https://www.amazon.fr/avatars-jouables-mondes-num%C3%A9riques-interactives/dp/274623291X)
+  - [Philosophie des jeux vidéo](https://www.editionsladecouverte.fr/philosophie_des_jeux_video-9782707197672)
+  - [La fin du game ? : Les jeux vidéo au quotidien](https://pufr-editions.fr/produit/la-fin-du-game/)
