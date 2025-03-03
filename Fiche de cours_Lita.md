@@ -600,6 +600,7 @@ Angelo Careri
 ## 010325 
 
 논쟁거리 : 탈코르셋 / 강남역 살인 사건 / 임금 격차 / 독박 육아 / 취업 불이익 / 교제 폭력, 강간, 살해 / 성매매, 접대 문화 + 여성 성상품화, 성적 물화 / 아들맘 / 여성의 과한 외모 잣대 / 여성의 높은 자살율 / 여성징병
+
 아니 근데 얘네가 논쟁이 될 여지가 있기나 한가? 
 
 여성이기 때문에 죽었다 vs 여성이 약하니까 노려지기 쉬운 건 당연하다 
@@ -689,15 +690,20 @@ Angelo Careri
 남성을 선택하면 결말은 대부분 한남으로 귀결되고, 그 부분은 돌이킬 수 없다. 혐오 발언을 선택하면 선택할수록 더더욱 그런 선택지만 나온다. 극히 드물게 남페미가 되는 경우도 있지만, 이 루트는 한 번이라도 잘못된 선택지를 고르면 진행할 수 없을 것. 나는 어떤 의미로는 게임을 진행하며 플레이어들이 당황하고, 후회하기를 바란다. 그걸 위해서는 성별 선택지를 모호하게 하는 편이 좋을 듯. 남, 녀 말고… 선택지를 어떻게 하는 게 좋을까
 
 스테이터스를 과목명으로 하기? 엔딩을 한 번 본 다음에 그 스테이터스가 실제로 무얼 뜻하는지 알 수 있다든지. 
+
 파트 1 - 캐릭터의 성별이 결정됨, 누나와 동생이 서로 무척 다른 성향을 가졌음을 알게 됨, 게임의 목적에 대해 잘못된 아이디어를 갖게 함? 단순한 프린세스 메이커처럼 보인다. 의외로 짧음. 초등학교 때까지. 마냥 귀엽고 무해하다. 
+
 파트 2 - 중, 고등학교. 캐릭터들이 교복을 입음. 더 복잡한 이슈들에 대해 논의하기 시작한다. 2014 - 2019년. 단순한 프린세스메이커로 생각한 플레이어는 사회 이슈를 다루는 데에 당황하게 된다. 이때부터 결말이 조금씩 정해지기 시작하고, 이미 성별이 정해졌으므로(파트 1에서 누나와 동생 중 어느쪽을 더 많이 선택했느냐에 따름) 도달할 수 있는 결말들이 정해진다. 누나와 동생 중 어느 쪽을 더 많이 선택했는지에 따라 갈수록 선택지가 한정된다. 예를 들면, 고등학교에 이르러서 결말을 뒤바꾸기 쉽지 않다. 이미 남동생을 지나치게 많이 선택한 경우, 차별적이고 편협한 선택지만 나타난다. 가끔 이벤트로 ‘결말을 엿볼 수 있는’ 점성술사가 나타남? 2015년, 직장 내 성희롱 고발. 2016년, 강남역 살인사건. 2017년, 전세계적인 미투운동. 2018년, 낙태죄 폐지 시위. 
+
 source : 2015년 이후 한국 여성운동의 새로운 동향, https://kopolscom.or.kr/homepage/boardMedia/16659
 
-ce que j’hesite : des faux statuts, comment décider le sexe de la personnage principale, la fin le plus difficile : l’homme féministe. 
+ce que j’hesite : des faux statuts, comment décider le sexe de la personnage principale, la fin le plus difficile : garçon féministe. 
 le route ‘masculin’ est comme le route génocide d’Undertale, c’est irréversible ni inéluctable en cas si vous avez choisi plus d’avis du frére que la sœur dans le prémier partie. Faut recommencer pour compléter le jeu comme une femme. Meme si vous voulez d’attendre la fin ‘feministe’ en tant que l’homme, ça restrait comme la route plus difficile. Mais, quand même, il n’y a pas de ‘niveau’ entre des fins. J’essaie de ne pas les juger. Je sais que je vais devenir un masculiniste si j’étais un homme, comme mon frère. Malhereusement, c’est la société que je me suis née, veçu, et ce que je vais habiter dans le futur. Et j’espere que c’est équilibre et bien ouvert aux ce qui avoir des minorités. 
 
  외모 잣대 게임 (그 누구도 만점을 받을 수 없음, 마지막에 성형 추천해 줌.)
+
 https://www.quotev.com/quiz/16923875/How-well-do-you-fit-the-Korean-Beauty-Standards-for-girls
-나는 겨우 반타작임 : montrer à Robin
+
+나는 겨우 반타작임
 
 결말: 내가 누구를 선택했는지에 따라 둘 중 하나가 간을 먹혀 죽음. 죽임당한 대상은 완벽히 카피한 구미호에 의해 remplacer 된다. 원래부터 정해진 결말이고, 구미호의 목적이 그거였으므로 어떤 결말이든 구미호는 성공한다. 구미호가 목적을 달성하지 못하는 결말은 없음. 다만, 어떤 인간이 될 지 모를 뿐. 
